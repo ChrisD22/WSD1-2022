@@ -36,12 +36,11 @@ All coding and implementation must follow our [Required Practices for Web Develo
 
 Tutors will guide each team through the web development process via a number of sub-portfolios or submission points.
 
-- **SP1** - Ideation and user research
+- **SP1** - Ideation and competitor research
 - **SP2** - Information architecture
-- **SP3** - Content strategy & writing for the web
-- **SP4** - Design &amp; prototyping
-- **SP5** - The Guide
-- **SP6** - Quality assurance
+- **SP3** - Content strategy
+- **SP4** - Design planning
+
 
 Every week your team will attend a meeting with tutors to discuss your progress, address issues and answer questions.
 
