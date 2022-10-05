@@ -1,4 +1,4 @@
-# Design and Prototyping
+# Design planning
 
 ## Submission Point Four
 
